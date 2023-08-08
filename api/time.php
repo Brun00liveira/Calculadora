@@ -92,7 +92,7 @@ if(isset($_GET['num1'],$_GET['calcular'])){
         <?php $calcular ?>
    
         <nav class="navbar navbar-expand-md navbar-dark bg-info">
-            <a href="../Projeto/Index.php" class="navbar-brand">
+            <a href="../Index.html" class="navbar-brand">
                 <img src="../../img/calculator/564429.png" style="width: 50px;">
             <p class="navbar-brand pt-4">CALCULATOR</p>
             </a>
@@ -103,7 +103,7 @@ if(isset($_GET['num1'],$_GET['calcular'])){
             <div class="collapse navbar-collapse mr-5" id="nav-target1">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="Index.html" class="nav-link text-light">Home</a>
+                        <a href="../Index.html" class="nav-link text-light">Home</a>
                     </li>
                     <li class="nav-item">
                         <a href="calculator.php" class="nav-link text-light">Calculadora</a>
