@@ -61,7 +61,7 @@ if(isset($_GET['num1'],$_GET['calcular'])){
         <!-- Logo -->
         <nav class="navbar navbar-expand-md navbar-dark bg-info">
             <a href="../Index.html" class="navbar-brand">
-                <img src="../../img/calculator/564429.png" style="width: 50px;">
+                <img src="../calculator/564429.png" style="width: 50px;">
                 
 
             <p class="navbar-brand pt-4">CALCULATOR</p>
